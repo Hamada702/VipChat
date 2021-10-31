@@ -1,0 +1,14 @@
+---
+name: VipChat
+version: 2.0.1
+main: bink702\VipChat
+api: 3.23.1s
+
+commands:
+  vipchat:
+    description: "Use vipchat commands"
+    permission: "vc.use"
+  vc:
+    description: "Use vipchat commands"
+    permission: "vc.use"
+...
